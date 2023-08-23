@@ -21,7 +21,7 @@ Show the image stored in the given variable.
 Destroy all the windows and end the program.
 
 ## Program:
-```python
+
 # Developed By: JAYAKRISHNAN L B L
 # Register Number: 212222230052
 # i) Convert BGR and RGB to HSV and GRAY
