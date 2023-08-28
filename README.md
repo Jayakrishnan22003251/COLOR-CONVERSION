@@ -137,12 +137,12 @@ cv2.destroyAllWindows()
 
 
 ### ii) HSV to RGB and BGR
-    ![Screenshot from 2023-08-23 14-48-18](https://github.com/Jayakrishnan22003251/COLOR-CONVERSION/assets/120232371/e9fce7aa-7792-4122-8596-a08e5c2df2d9)
+   ![Screenshot from 2023-08-23 14-48-18](https://github.com/Jayakrishnan22003251/COLOR-CONVERSION/assets/120232371/e9fce7aa-7792-4122-8596-a08e5c2df2d9)
      ![Screenshot from 2023-08-23 14-48-41](https://github.com/Jayakrishnan22003251/COLOR-CONVERSION/assets/120232371/28f47858-7661-4af5-b044-bd09a49b6904)
 
 
 ### iii) RGB and BGR to YCrCb
-    ![Screenshot from 2023-08-23 15-00-19](https://github.com/Jayakrishnan22003251/COLOR-CONVERSION/assets/120232371/ae86ad5e-188e-4bf2-a445-e932bee7c7c3)
+   ![Screenshot from 2023-08-23 15-00-19](https://github.com/Jayakrishnan22003251/COLOR-CONVERSION/assets/120232371/ae86ad5e-188e-4bf2-a445-e932bee7c7c3)
      ![Screenshot from 2023-08-23 15-00-39](https://github.com/Jayakrishnan22003251/COLOR-CONVERSION/assets/120232371/eda3c988-0137-4a54-b45f-25b48de08d1b)
 
 
